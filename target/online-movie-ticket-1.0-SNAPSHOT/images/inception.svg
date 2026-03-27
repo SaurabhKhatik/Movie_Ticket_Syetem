@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1a2e"/>
+      <stop offset="1" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <rect x="80" y="150" width="440" height="520" rx="24" fill="#0f3460" opacity="0.6"/>
+  <text x="300" y="730" text-anchor="middle" fill="#e8eefc" font-size="54" font-family="Arial" font-weight="700">INCEPTION</text>
+  <text x="300" y="790" text-anchor="middle" fill="#a6b7db" font-size="26" font-family="Arial">Dreams within dreams</text>
+</svg>
+
